@@ -2,7 +2,7 @@ url: https://serverexplode7.github.io
 baseurl: ""
 
 # Site settings
-title: serverexplode7
+title: 서버폭파7
 email: serverexplode7@naver.com
 description: "test"
 
@@ -13,8 +13,8 @@ people:
   pic: 1
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
+    - title: YouTube
+      url: https://www.youtube.com/channel/UCTOVmKJt0JoN7jYPcdv1iVQ
     - title: facebook
       url: #
     - title: stack-overflow
