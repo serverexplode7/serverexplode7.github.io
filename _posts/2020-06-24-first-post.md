@@ -1,6 +1,9 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "늅Hub"
+date: 2020-06-24 01:31:28
+categories: Program
 ---
-test post
+늅Hub가 수정되었습니다.
+[NoobHub][noobhub]
+
+[noobhub]: "https://github.com/serverexplode7/noob_Hub"
